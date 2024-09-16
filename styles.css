@@ -1,5 +1,19 @@
-ul {
+#navbar {
     list-style-type: none;
+    display: flex;
+    top: 0;
     margin: 0;
     padding: 0;
   }
+
+.nav-item{
+    text-decoration: none;
+    display: block;
+    color: black;
+    /* padding: 0.5rem; */
+    margin: 0 0.5rem;
+}
+
+.nav-item:hover{
+    transform: scale(1.05);
+}
