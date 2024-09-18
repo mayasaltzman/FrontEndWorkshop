@@ -1,6 +1,8 @@
 body{
     background-color: #faf5f4;
     font-family: 'Poppins';
+    padding:0;
+    margin:0;
 }
 
 #navbar {
@@ -9,6 +11,7 @@ body{
     top: 0;
     margin: 0;
     padding: 0;
+    background-color: rgb(174, 192, 226);
   }
 
 .nav-item{
